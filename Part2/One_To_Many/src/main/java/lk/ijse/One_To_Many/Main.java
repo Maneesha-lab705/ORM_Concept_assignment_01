@@ -12,8 +12,6 @@ import java.util.Scanner;
 
 public class Main {
     static Scanner input =new Scanner(System.in);
-    static Book book=new Book();
-    static Book book1=new Book();
     static Auther auther=new Auther();
   static   Session session = FactoryConfiguration.getInstance().getSession();
     static Transaction transaction =session.beginTransaction();

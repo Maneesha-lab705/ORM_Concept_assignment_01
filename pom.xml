@@ -13,6 +13,8 @@
         <module>One_To_One_relation</module>
         <module>One_To_Many</module>
         <module>Many_To_Many</module>
+        <module>Many_To_Many</module>
+        <module>Many_To_Many</module>
     </modules>
 
     <properties>

@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="manage_book" />
+        <module name="Many_To_Many" />
         <module name="One_To_One_relation" />
         <module name="One_To_Many" />
       </profile>
